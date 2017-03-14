@@ -1,4 +1,4 @@
-package example.chapter1;
+package example1.chapter1;
 
 /**
  * Created by Гамзат on 3/14/2017.
